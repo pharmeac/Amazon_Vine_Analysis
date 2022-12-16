@@ -15,8 +15,8 @@ The purpose of this analysis was to determine if there is any bias towards revie
 
 ![image](https://user-images.githubusercontent.com/109913335/208159722-29f0bbbf-b045-4695-842a-281e7c17a4f8.png)
 
- - The percentage of Vine reviews were 5 stars: 47.62%.
- - The percentage of non-Vine reviews were 5 stars: 51.54%
+ - The percentage of Vine reviews that were 5 stars: 47.62%.
+ - The percentage of non-Vine reviews that were 5 stars: 51.54%
 
 ![image](https://user-images.githubusercontent.com/109913335/208159831-e1d5b0f4-4a73-4678-8f23-7f2eb3e96d2d.png)
 
